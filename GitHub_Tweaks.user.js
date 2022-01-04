@@ -7,7 +7,7 @@
 // @author       hari
 // @match        https://github.com/*
 // @grant        GM_addStyle
-// @updateURL    https://github.com/dotmpe/web-tamper/raw/master/GitHub-Tweaks.user.js
+// @updateURL    https://github.com/dotmpe/web-tamper/raw/master/GitHub_Tweaks.user.js
 // ==/UserScript==
 (function() {
   console.log("github.mpe");
