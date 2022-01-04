@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         GitHub Tweaks
-// @namespace    dotmpe.com
+// @namespace    https://dotmpe.com
 // @grant        GM_addStyle
 // @version      0.1-dev
 // @description  Wide pages: remove max-width for graphs, and add 200px to other pages.
 // @author       hari
 // @match        https://github.com/*
 // @grant        GM_addStyle
-// updateURL
+// @updateURL    https://github.com/dotmpe/web-tamper/raw/master/GitHub-Tweaks.user.js
 // ==/UserScript==
 (function() {
   console.log("github.mpe");
